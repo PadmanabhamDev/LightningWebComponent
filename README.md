@@ -1,5 +1,4 @@
-# Lightning-Web-Components
-### 📂 Contain Lightning Web Components related topic 
+# 🌎  Fundamental of LWC 
 ## 📘 1. JavaScript
 
 - [JSON+Object+Operation.md](https://github.com/HANU0502/Lightning-Web-Components/blob/7007eed8666a266fbf81f6bc5e2f80a1ff249f4d/javascript/JSON%2BObject%2BOperation.md)
