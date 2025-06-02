@@ -1,7 +1,7 @@
 # 🌎  Fundamental of LWC 
 ## 📘 1. JavaScript
 
-- [JSON+Object+Operation.md](https://github.com/PadmanabhamDev/LightningWebComponents/blob/7007eed8666a266fbf81f6bc5e2f80a1ff249f4d/javascript/JSON%2BObject%2BOperation.md)
+- [JSON+Object+Operation.md](javaScript/JSON+Object+Operation.md)
 - [PromisesInLWC.md](https://github.com/PadmanabhamDev/LightningWebComponents/blob/7007eed8666a266fbf81f6bc5e2f80a1ff249f4d/javascript/PromisesInLWC.md)
 - [String_Method.md](https://github.com/PadmanabhamDev/LightningWebComponents/blob/7007eed8666a266fbf81f6bc5e2f80a1ff249f4d/javascript/String_Method.md)
 - [String_interpolation.md](https://github.com/PadmanabhamDev/LightningWebComponentsblob/7007eed8666a266fbf81f6bc5e2f80a1ff249f4d/javascript/String_interpolation.md)
