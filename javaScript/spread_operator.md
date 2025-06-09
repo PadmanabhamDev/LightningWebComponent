@@ -7,10 +7,6 @@ The **spread operator** is used to **expand iterable elements** (like arrays or 
 
 ---
 
-## 🧩 **Usage Examples from Your Code**
-
----
-
 ### ✅ **1. Spread in Strings (Expanding a String)**
 
 ```js
@@ -167,4 +163,3 @@ obj7[0].loc = "hyderabad";
 * For **deeply nested objects**, use deep copy tools like `structuredClone()` or libraries like Lodash (`_.cloneDeep()`).
 * Be cautious with shallow copies — they can silently lead to bugs if you assume deep cloning.
 
-Let me know if you’d like a diagram or visual explanation!
