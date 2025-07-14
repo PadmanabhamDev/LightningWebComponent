@@ -4,7 +4,7 @@
 - [JSON Object Operation](javaScript/JSON+Object+Operation.md)
 - [Promises In LWC](javaScript/PromisesInLWC.md)
 - [String Method](javaScript/String_Method.md)
-- [String_interpolation](javaScript/String_interpolation.md)
+- [String Interpolation](javaScript/String_interpolation.md)
 - [Array Method In JS](javaScript/arrayMethodInJS.md)
 - [Arrow Function](javaScript/arrowFunction.md)
 - [Datatype](javaScript/datatype.md)
