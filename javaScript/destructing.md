@@ -103,5 +103,3 @@ console.log(email);    // alice@example.com
 * Supports defaults, renaming, nested patterns.
 
 ---
-
-If you want, I can provide more examples or explain how destructuring is used in functions or parameters! Would you like that?
